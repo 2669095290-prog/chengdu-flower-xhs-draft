@@ -1,0 +1,4 @@
+interface:
+  display_name: "成都花店小红书草稿"
+  short_description: "将花束素材优化为成都同城获客小红书笔记并保存草稿。"
+  default_prompt: "Use $chengdu-flower-xhs-draft to turn this bouquet photo into a Chengdu flower-shop Xiaohongshu draft."
